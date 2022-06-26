@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/rounded_button_background.xml" value="0.225" />
+        <entry key="app/src/main/res/layout/activity_edit_user.xml" value="0.280859375" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.175390625" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.4036458333333333" />
+        <entry key="app/src/main/res/layout/activity_on_boarding.xml" value="0.4036458333333333" />
+        <entry key="app/src/main/res/layout/activity_onboarding.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_play_exercise.xml" value="0.280859375" />
+        <entry key="app/src/main/res/layout/activity_privacy_policy.xml" value="0.280859375" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.21979166666666666" />
+        <entry key="app/src/main/res/layout/activity_select_physic.xml" value="0.151953125" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.38958333333333334" />
+        <entry key="app/src/main/res/layout/activity_upload_physic.xml" value="0.151953125" />
+        <entry key="app/src/main/res/layout/activity_users_pay_history.xml" value="0.280859375" />
+        <entry key="app/src/main/res/layout/activity_users_pay_now.xml" value="0.14" />
+        <entry key="app/src/main/res/layout/activity_view_exercise.xml" value="0.280859375" />
+        <entry key="app/src/main/res/layout/activity_view_meal.xml" value="0.29140625" />
+        <entry key="app/src/main/res/layout/activity_view_photo.xml" value="0.29140625" />
+        <entry key="app/src/main/res/layout/activity_view_physic.xml" value="0.151953125" />
+        <entry key="app/src/main/res/layout/fragment_user_home.xml" value="0.3494689941406251" />
+        <entry key="app/src/main/res/layout/fragment_user_profile.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/onboard_row_layout.xml" value="0.4277689615885417" />
+        <entry key="app/src/main/res/layout/row_exercises.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/row_meals.xml" value="0.408644274731616" />
+        <entry key="app/src/main/res/layout/row_pay_history.xml" value="0.290625" />
+        <entry key="app/src/main/res/layout/row_physics.xml" value="0.151171875" />
+        <entry key="app/src/main/res/layout/slide_layout.xml" value="0.40260416666666665" />
+        <entry key="app/src/main/res/layout/test.xml" value="0.4036458333333333" />
+        <entry key="app/src/main/res/menu/nav_bar_user.xml" value="0.151953125" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.24" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
